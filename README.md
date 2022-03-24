@@ -6,15 +6,14 @@ Spesification :
 - Processor : Intel Core i3-8130U 
 - iGPU : Intel UHD Graphics 620
 - dGPU : NVDIA MX150 (Disabled)
-- RAM : 1x 4GB DDR4
+- RAM : 1x 8GB DDR4 2400Mhz
 - Audio Codec : Realtek ALC256
 - Trackpad : I2C Touchpad
 - Storage : WDC NVME 512GB
 - Wireless : Intel 7265
-- Bootloader : OC 0.7.6
-- OS : macOS Big Sur 11.4
+- Bootloader : OC 0.7.9
+- OS : macOS Big Sur 11.6.2
 
-For wifi using itlwm.kext and [Heliport](https://openintelwireless.github.io/HeliPort/)
 External Mic using [Combojack](https://github.com/hackintosh-stuff/ComboJack)
 
 Not working : Internal Mic

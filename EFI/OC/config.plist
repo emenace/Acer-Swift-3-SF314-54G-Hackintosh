@@ -421,7 +421,7 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>AADAhw==</data>
+				<data>BAAnWQ==</data>
 				<key>AAPL,slot-name</key>
 				<string>Internal@0,2,0</string>
 				<key>device-id</key>
@@ -1777,21 +1777,21 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C028125014NHWVPJA</string>
+			<string>C029443064NJH4RJA</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>ESIzRFVm</data>
+			<data>bD5t4g1X</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacBookPro14,1</string>
+			<string>MacBookPro15,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02WG0G0HV29</string>
+			<string>C02ZMJZZJHCC</string>
 			<key>SystemUUID</key>
-			<string>24C34472-9299-4731-BA88-F1B75E07B5D7</string>
+			<string>D973B5B4-19FE-4700-956E-BD24EF20159F</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
